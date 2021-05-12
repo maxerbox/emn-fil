@@ -7,6 +7,9 @@
     <url>https://sbouchet.github.io/emn-fil/</url>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <sonar.projectKey>maxerbox_emn-fil</sonar.projectKey>
+        <sonar.organization>maxerbox</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     <scm>
         <url>https://github.com/sbouchet/emn-fil</url>
